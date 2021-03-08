@@ -37,16 +37,6 @@ namespace ComeproHomework3
             
 
 
-            /*double t, p;
-            double x = double.Parse(Console.ReadLine());
-            double y = double.Parse(Console.ReadLine());
-            p = y+1;
-            t = Math.Sqrt(p);
-            Console.WriteLine(t);
-            Console.WriteLine(p);*/
-            
-
-
         }
     }
 }
