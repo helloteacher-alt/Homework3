@@ -12,8 +12,6 @@ namespace ComeproHomework3
             double xT = double.Parse(Console.ReadLine());
             Console.Write("Input y position:");
             double yP = double.Parse(Console.ReadLine());
-
-            
             if (timeprice == "time"||timeprice=="price")
              {
                  if (xT <= 0)
